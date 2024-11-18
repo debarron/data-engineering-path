@@ -1,0 +1,28 @@
+[2024-08-29T17:11:09.008+0000] {processor.py:154} INFO - Started process (PID=6538) to work on /opt/airflow/dags/course_parallel_dag.py
+[2024-08-29T17:11:09.008+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_parallel_dag.py for tasks to queue
+[2024-08-29T17:11:09.009+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:11:09.009+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_parallel_dag.py
+[2024-08-29T17:11:09.028+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_parallel_dag']) retrieved from /opt/airflow/dags/course_parallel_dag.py
+[2024-08-29T17:11:09.071+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:11:09.071+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-29T17:11:09.102+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:11:09.101+0000] {dag.py:3340} INFO - Setting next_dagrun for course_parallel_dag to 2024-08-28T17:11:09.101616+00:00, run_after=2024-08-29T17:11:09.101616+00:00
+[2024-08-29T17:11:09.125+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_parallel_dag.py took 0.121 seconds
+[2024-08-29T17:11:39.901+0000] {processor.py:154} INFO - Started process (PID=6574) to work on /opt/airflow/dags/course_parallel_dag.py
+[2024-08-29T17:11:39.906+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_parallel_dag.py for tasks to queue
+[2024-08-29T17:11:39.906+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:11:39.906+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_parallel_dag.py
+[2024-08-29T17:11:39.921+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_parallel_dag']) retrieved from /opt/airflow/dags/course_parallel_dag.py
+[2024-08-29T17:11:39.962+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:11:39.961+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-29T17:11:39.989+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:11:39.989+0000] {dag.py:3340} INFO - Setting next_dagrun for course_parallel_dag to 2024-08-28T17:11:39.989157+00:00, run_after=2024-08-29T17:11:39.989157+00:00
+[2024-08-29T17:11:40.011+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_parallel_dag.py took 0.114 seconds
+[2024-08-29T17:12:10.929+0000] {processor.py:154} INFO - Started process (PID=6620) to work on /opt/airflow/dags/course_parallel_dag.py
+[2024-08-29T17:12:10.932+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_parallel_dag.py for tasks to queue
+[2024-08-29T17:12:10.932+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:12:10.932+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_parallel_dag.py
+[2024-08-29T17:12:10.947+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_parallel_dag']) retrieved from /opt/airflow/dags/course_parallel_dag.py
+[2024-08-29T17:12:10.987+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:12:10.987+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-29T17:12:11.016+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:12:11.016+0000] {dag.py:3340} INFO - Setting next_dagrun for course_parallel_dag to 2024-08-28T17:12:11.015902+00:00, run_after=2024-08-29T17:12:11.015902+00:00
+[2024-08-29T17:12:11.036+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_parallel_dag.py took 0.110 seconds
+[2024-08-29T17:12:41.960+0000] {processor.py:154} INFO - Started process (PID=6666) to work on /opt/airflow/dags/course_parallel_dag.py
+[2024-08-29T17:12:41.974+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_parallel_dag.py for tasks to queue
+[2024-08-29T17:12:41.975+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:12:41.975+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_parallel_dag.py
+[2024-08-29T17:12:41.990+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_parallel_dag']) retrieved from /opt/airflow/dags/course_parallel_dag.py
+[2024-08-29T17:12:42.030+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:12:42.030+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-29T17:12:42.058+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:12:42.057+0000] {dag.py:3340} INFO - Setting next_dagrun for course_parallel_dag to 2024-08-28T17:12:42.057757+00:00, run_after=2024-08-29T17:12:42.057757+00:00
+[2024-08-29T17:12:42.078+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_parallel_dag.py took 0.121 seconds

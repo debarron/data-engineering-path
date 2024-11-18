@@ -1,0 +1,72 @@
+[2024-08-29T17:11:07.690+0000] {processor.py:154} INFO - Started process (PID=6525) to work on /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:11:07.691+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_elastic_dag.py for tasks to queue
+[2024-08-29T17:11:07.692+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:11:07.692+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:11:08.078+0000] {processor.py:766} INFO - DAG(s) dict_keys(['elastic_dag']) retrieved from /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:11:08.128+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:11:08.127+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-29T17:11:08.165+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:11:08.164+0000] {dag.py:3340} INFO - Setting next_dagrun for elastic_dag to 2024-08-28T00:00:00+00:00, run_after=2024-08-29T00:00:00+00:00
+[2024-08-29T17:11:08.187+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_elastic_dag.py took 0.502 seconds
+[2024-08-29T17:11:38.395+0000] {processor.py:154} INFO - Started process (PID=6565) to work on /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:11:38.397+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_elastic_dag.py for tasks to queue
+[2024-08-29T17:11:38.398+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:11:38.397+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:11:38.670+0000] {processor.py:766} INFO - DAG(s) dict_keys(['elastic_dag']) retrieved from /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:11:38.709+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:11:38.708+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-29T17:11:38.738+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:11:38.738+0000] {dag.py:3340} INFO - Setting next_dagrun for elastic_dag to 2024-08-29T00:00:00+00:00, run_after=2024-08-30T00:00:00+00:00
+[2024-08-29T17:11:38.755+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_elastic_dag.py took 0.363 seconds
+[2024-08-29T17:12:09.436+0000] {processor.py:154} INFO - Started process (PID=6611) to work on /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:12:09.437+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_elastic_dag.py for tasks to queue
+[2024-08-29T17:12:09.437+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:12:09.437+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:12:09.712+0000] {processor.py:766} INFO - DAG(s) dict_keys(['elastic_dag']) retrieved from /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:12:09.751+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:12:09.751+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-29T17:12:09.781+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:12:09.781+0000] {dag.py:3340} INFO - Setting next_dagrun for elastic_dag to 2024-08-29T00:00:00+00:00, run_after=2024-08-30T00:00:00+00:00
+[2024-08-29T17:12:09.801+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_elastic_dag.py took 0.368 seconds
+[2024-08-29T17:12:40.392+0000] {processor.py:154} INFO - Started process (PID=6657) to work on /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:12:40.408+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_elastic_dag.py for tasks to queue
+[2024-08-29T17:12:40.408+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:12:40.408+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:12:40.679+0000] {processor.py:766} INFO - DAG(s) dict_keys(['elastic_dag']) retrieved from /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:12:40.715+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:12:40.714+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-29T17:12:40.745+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:12:40.745+0000] {dag.py:3340} INFO - Setting next_dagrun for elastic_dag to 2024-08-29T00:00:00+00:00, run_after=2024-08-30T00:00:00+00:00
+[2024-08-29T17:12:40.897+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_elastic_dag.py took 0.509 seconds
+[2024-08-29T17:13:11.428+0000] {processor.py:154} INFO - Started process (PID=6694) to work on /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:13:11.448+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_elastic_dag.py for tasks to queue
+[2024-08-29T17:13:11.448+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:13:11.448+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:13:11.762+0000] {processor.py:766} INFO - DAG(s) dict_keys(['elastic_dag']) retrieved from /opt/airflow/dags/course_elastic_dag.py
+[2024-08-29T17:13:11.840+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:13:11.840+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-29T17:13:12.488+0000] {logging_mixin.py:120} WARNING - Exception ignored in: <function WeakKeyDictionary.__init__.<locals>.remove at 0x7ec5ee1f2d40>
+[2024-08-29T17:13:12.489+0000] {logging_mixin.py:120} WARNING - Traceback (most recent call last):
+[2024-08-29T17:13:12.489+0000] {logging_mixin.py:120} WARNING -   File "/usr/local/lib/python3.7/weakref.py", line 358, in remove
+[2024-08-29T17:13:12.489+0000] {logging_mixin.py:120} WARNING -     def remove(k, selfref=ref(self)):
+[2024-08-29T17:13:12.489+0000] {logging_mixin.py:120} WARNING -   File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/manager.py", line 466, in _exit_gracefully
+[2024-08-29T17:13:12.489+0000] {logging_mixin.py:120} WARNING -     self.log.debug("Current Stacktrace is: %s", '\n'.join(map(str, inspect.stack())))
+[2024-08-29T17:13:12.489+0000] {logging_mixin.py:120} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 1513, in stack
+[2024-08-29T17:13:12.490+0000] {logging_mixin.py:120} WARNING -     return getouterframes(sys._getframe(1), context)
+[2024-08-29T17:13:12.490+0000] {logging_mixin.py:120} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 1490, in getouterframes
+[2024-08-29T17:13:12.490+0000] {logging_mixin.py:120} WARNING -     frameinfo = (frame,) + getframeinfo(frame, context)
+[2024-08-29T17:13:12.490+0000] {logging_mixin.py:120} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 1464, in getframeinfo
+[2024-08-29T17:13:12.491+0000] {logging_mixin.py:120} WARNING -     lines, lnum = findsource(frame)
+[2024-08-29T17:13:12.491+0000] {logging_mixin.py:120} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 780, in findsource
+[2024-08-29T17:13:12.491+0000] {logging_mixin.py:120} WARNING -     module = getmodule(object, file)
+[2024-08-29T17:13:12.491+0000] {logging_mixin.py:120} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 742, in getmodule
+[2024-08-29T17:13:12.492+0000] {logging_mixin.py:120} WARNING -     os.path.realpath(f)] = module.__name__
+[2024-08-29T17:13:12.492+0000] {logging_mixin.py:120} WARNING -   File "/usr/local/lib/python3.7/posixpath.py", line 395, in realpath
+[2024-08-29T17:13:12.492+0000] {logging_mixin.py:120} WARNING -     path, ok = _joinrealpath(filename[:0], filename, {})
+[2024-08-29T17:13:12.492+0000] {logging_mixin.py:120} WARNING -   File "/usr/local/lib/python3.7/posixpath.py", line 429, in _joinrealpath
+[2024-08-29T17:13:12.492+0000] {logging_mixin.py:120} WARNING -     if not islink(newpath):
+[2024-08-29T17:13:12.492+0000] {logging_mixin.py:120} WARNING -   File "/usr/local/lib/python3.7/posixpath.py", line 171, in islink
+[2024-08-29T17:13:12.492+0000] {logging_mixin.py:120} WARNING -     st = os.lstat(path)
+[2024-08-29T17:13:12.492+0000] {logging_mixin.py:120} WARNING -   File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/manager.py", line 466, in _exit_gracefully
+[2024-08-29T17:13:12.493+0000] {logging_mixin.py:120} WARNING -     self.log.debug("Current Stacktrace is: %s", '\n'.join(map(str, inspect.stack())))
+[2024-08-29T17:13:12.493+0000] {logging_mixin.py:120} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 1513, in stack
+[2024-08-29T17:13:12.493+0000] {logging_mixin.py:120} WARNING -     return getouterframes(sys._getframe(1), context)
+[2024-08-29T17:13:12.493+0000] {logging_mixin.py:120} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 1490, in getouterframes
+[2024-08-29T17:13:12.494+0000] {logging_mixin.py:120} WARNING -     frameinfo = (frame,) + getframeinfo(frame, context)
+[2024-08-29T17:13:12.494+0000] {logging_mixin.py:120} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 1460, in getframeinfo
+[2024-08-29T17:13:12.494+0000] {logging_mixin.py:120} WARNING -     filename = getsourcefile(frame) or getfile(frame)
+[2024-08-29T17:13:12.494+0000] {logging_mixin.py:120} WARNING -   File "/usr/local/lib/python3.7/inspect.py", line 693, in getsourcefile
+[2024-08-29T17:13:12.495+0000] {logging_mixin.py:120} WARNING -     if os.path.exists(filename):
+[2024-08-29T17:13:12.495+0000] {logging_mixin.py:120} WARNING -   File "/usr/local/lib/python3.7/genericpath.py", line 19, in exists
+[2024-08-29T17:13:12.495+0000] {logging_mixin.py:120} WARNING -     os.stat(path)
+[2024-08-29T17:13:12.495+0000] {logging_mixin.py:120} WARNING -   File "/home/airflow/.local/lib/python3.7/site-packages/airflow/dag_processing/manager.py", line 470, in _exit_gracefully
+[2024-08-29T17:13:12.495+0000] {logging_mixin.py:120} WARNING -     sys.exit(os.EX_OK)
+[2024-08-29T17:13:12.495+0000] {logging_mixin.py:120} WARNING - SystemExit: 0
+[2024-08-29T17:13:12.514+0000] {logging_mixin.py:120} INFO - [2024-08-29T17:13:12.514+0000] {dag.py:3340} INFO - Setting next_dagrun for elastic_dag to 2024-08-29T00:00:00+00:00, run_after=2024-08-30T00:00:00+00:00
+[2024-08-29T17:13:12.534+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_elastic_dag.py took 1.109 seconds

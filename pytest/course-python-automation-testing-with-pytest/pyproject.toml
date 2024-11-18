@@ -1,0 +1,7 @@
+[tool.pytest.ini_options]
+markers = [
+	"smoke: Description for smoke test",
+	"str_test",
+	"critical: Critical test description",
+]
+

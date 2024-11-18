@@ -1,0 +1,851 @@
+[2024-08-23T19:24:58.966+0000] {processor.py:154} INFO - Started process (PID=24456) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:24:58.966+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:24:58.967+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:24:58.967+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:24:58.989+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:24:59.125+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:24:59.125+0000] {manager.py:507} INFO - Created Permission View: can edit on DAG:course_consumer
+[2024-08-23T19:24:59.134+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:24:59.134+0000] {manager.py:507} INFO - Created Permission View: can read on DAG:course_consumer
+[2024-08-23T19:24:59.140+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:24:59.140+0000] {manager.py:507} INFO - Created Permission View: can delete on DAG:course_consumer
+[2024-08-23T19:24:59.140+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:24:59.140+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:24:59.155+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:24:59.154+0000] {dag.py:2606} INFO - Creating ORM DAG for course_consumer
+[2024-08-23T19:24:59.167+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:24:59.167+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:24:59.186+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.223 seconds
+[2024-08-23T19:25:29.931+0000] {processor.py:154} INFO - Started process (PID=24526) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:25:29.949+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:25:29.950+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:25:29.950+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:25:29.970+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:25:30.013+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:25:30.013+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:25:30.041+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:25:30.040+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:25:30.065+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.138 seconds
+[2024-08-23T19:26:00.417+0000] {processor.py:154} INFO - Started process (PID=24596) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:26:00.425+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:26:00.425+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:26:00.425+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:26:00.446+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:26:00.487+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:26:00.487+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:26:00.515+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:26:00.515+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:26:00.538+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.125 seconds
+[2024-08-23T19:26:31.042+0000] {processor.py:154} INFO - Started process (PID=24666) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:26:31.051+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:26:31.051+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:26:31.051+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:26:31.072+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:26:31.114+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:26:31.114+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:26:31.144+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:26:31.144+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:26:31.170+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.132 seconds
+[2024-08-23T19:27:01.651+0000] {processor.py:154} INFO - Started process (PID=24727) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:27:01.664+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:27:01.664+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:27:01.664+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:27:01.685+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:27:01.728+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:27:01.728+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:27:01.756+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:27:01.756+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:27:01.782+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.134 seconds
+[2024-08-23T19:27:32.034+0000] {processor.py:154} INFO - Started process (PID=24797) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:27:32.048+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:27:32.049+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:27:32.049+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:27:32.069+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:27:32.111+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:27:32.111+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:27:32.138+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:27:32.138+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:27:32.163+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.132 seconds
+[2024-08-23T19:28:02.527+0000] {processor.py:154} INFO - Started process (PID=24867) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:28:02.541+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:28:02.541+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:28:02.541+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:28:02.560+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:28:02.601+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:28:02.601+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:28:02.630+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:28:02.630+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:28:02.655+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.131 seconds
+[2024-08-23T19:28:33.041+0000] {processor.py:154} INFO - Started process (PID=24928) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:28:33.059+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:28:33.059+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:28:33.059+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:28:33.078+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:28:33.117+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:28:33.117+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:28:33.145+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:28:33.145+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:28:33.172+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.134 seconds
+[2024-08-23T19:29:03.614+0000] {processor.py:154} INFO - Started process (PID=24998) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:29:03.624+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:29:03.625+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:29:03.625+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:29:03.645+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:29:03.687+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:29:03.687+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:29:03.714+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:29:03.714+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:29:03.738+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.127 seconds
+[2024-08-23T19:29:34.210+0000] {processor.py:154} INFO - Started process (PID=25068) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:29:34.225+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:29:34.226+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:29:34.226+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:29:34.246+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:29:34.288+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:29:34.288+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:29:34.315+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:29:34.315+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:29:34.338+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.131 seconds
+[2024-08-23T19:30:04.814+0000] {processor.py:154} INFO - Started process (PID=25129) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:30:04.826+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:30:04.827+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:30:04.827+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:30:04.847+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:30:04.888+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:30:04.888+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:30:04.917+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:30:04.916+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:30:04.940+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.129 seconds
+[2024-08-23T19:30:31.037+0000] {processor.py:154} INFO - Started process (PID=25190) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:30:31.044+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:30:31.044+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:30:31.044+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:30:31.063+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:30:31.143+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:30:31.143+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:30:31.167+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:30:31.166+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:30:31.194+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.160 seconds
+[2024-08-23T19:31:01.786+0000] {processor.py:154} INFO - Started process (PID=25252) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:31:01.805+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:31:01.805+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:31:01.805+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:31:01.827+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:31:01.870+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:31:01.870+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:31:01.898+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:31:01.897+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:31:01.919+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.136 seconds
+[2024-08-23T19:31:31.994+0000] {processor.py:154} INFO - Started process (PID=25322) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:31:32.006+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:31:32.006+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:31:32.006+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:31:32.025+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:31:32.065+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:31:32.065+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:31:32.091+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:31:32.091+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:31:32.116+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.124 seconds
+[2024-08-23T19:32:02.702+0000] {processor.py:154} INFO - Started process (PID=25392) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:32:02.715+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:32:02.716+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:32:02.716+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:32:02.737+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:32:02.778+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:32:02.778+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:32:02.807+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:32:02.807+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:32:02.832+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.133 seconds
+[2024-08-23T19:32:32.920+0000] {processor.py:154} INFO - Started process (PID=25453) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:32:32.933+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:32:32.933+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:32:32.933+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:32:32.953+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:32:32.993+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:32:32.993+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:32:33.018+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:32:33.018+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:32:33.041+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.124 seconds
+[2024-08-23T19:33:03.082+0000] {processor.py:154} INFO - Started process (PID=25523) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:33:03.095+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:33:03.095+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:33:03.095+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:33:03.116+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:33:03.158+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:33:03.158+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:33:03.185+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:33:03.185+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:33:03.209+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.131 seconds
+[2024-08-23T19:33:33.675+0000] {processor.py:154} INFO - Started process (PID=25593) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:33:33.687+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:33:33.688+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:33:33.688+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:33:33.707+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:33:33.747+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:33:33.747+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:33:33.773+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:33:33.773+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:33:33.798+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.125 seconds
+[2024-08-23T19:34:04.112+0000] {processor.py:154} INFO - Started process (PID=25654) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:34:04.121+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:34:04.122+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:34:04.122+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:34:04.142+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:34:04.182+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:34:04.182+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:34:04.210+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:34:04.210+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:34:04.234+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.125 seconds
+[2024-08-23T19:34:34.682+0000] {processor.py:154} INFO - Started process (PID=25722) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:34:34.697+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:34:34.698+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:34:34.698+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:34:34.718+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:34:34.761+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:34:34.760+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:34:34.790+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:34:34.790+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:34:34.816+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.137 seconds
+[2024-08-23T19:35:04.879+0000] {processor.py:154} INFO - Started process (PID=25792) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:35:04.880+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:35:04.880+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:35:04.880+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:35:04.899+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:35:04.938+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:35:04.938+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:35:04.964+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:35:04.964+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:35:04.988+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.112 seconds
+[2024-08-23T19:35:34.698+0000] {processor.py:154} INFO - Started process (PID=25852) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:35:34.700+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:35:34.700+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:35:34.700+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:35:34.721+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:35:34.760+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:35:34.760+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:35:34.786+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:35:34.786+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:35:34.812+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.117 seconds
+[2024-08-23T19:36:05.341+0000] {processor.py:154} INFO - Started process (PID=25922) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:36:05.351+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:36:05.351+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:36:05.351+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:36:05.372+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:36:05.414+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:36:05.413+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:36:05.444+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:36:05.443+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:36:05.467+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.129 seconds
+[2024-08-23T19:36:36.046+0000] {processor.py:154} INFO - Started process (PID=25992) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:36:36.060+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:36:36.060+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:36:36.060+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:36:36.080+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:36:36.122+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:36:36.122+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:36:36.149+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:36:36.149+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:36:36.169+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.126 seconds
+[2024-08-23T19:37:06.585+0000] {processor.py:154} INFO - Started process (PID=26053) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:37:06.595+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:37:06.595+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:37:06.595+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:37:06.620+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:37:06.664+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:37:06.664+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:37:06.691+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:37:06.691+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:37:06.711+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.130 seconds
+[2024-08-23T19:37:36.862+0000] {processor.py:154} INFO - Started process (PID=26123) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:37:36.863+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:37:36.864+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:37:36.864+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:37:36.890+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:37:36.932+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:37:36.932+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:37:36.958+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:37:36.958+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:37:36.980+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.120 seconds
+[2024-08-23T19:38:07.439+0000] {processor.py:154} INFO - Started process (PID=26193) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:38:07.440+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:38:07.441+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:38:07.441+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:38:07.461+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:38:07.501+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:38:07.501+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:38:07.530+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:38:07.530+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:38:07.552+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.116 seconds
+[2024-08-23T19:38:38.232+0000] {processor.py:154} INFO - Started process (PID=26261) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:38:38.233+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:38:38.234+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:38:38.233+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:38:38.255+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:38:38.299+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:38:38.299+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:38:38.326+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:38:38.326+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:38:38.348+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.120 seconds
+[2024-08-23T19:39:08.807+0000] {processor.py:154} INFO - Started process (PID=26324) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:39:08.808+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:39:08.809+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:39:08.808+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:39:08.828+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:39:08.869+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:39:08.869+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:39:08.896+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:39:08.896+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:39:08.920+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.117 seconds
+[2024-08-23T19:39:39.748+0000] {processor.py:154} INFO - Started process (PID=26394) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:39:39.749+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:39:39.749+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:39:39.749+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:39:39.769+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:39:39.809+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:39:39.809+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:39:39.837+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:39:39.837+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:39:39.861+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.117 seconds
+[2024-08-23T19:40:09.912+0000] {processor.py:154} INFO - Started process (PID=26464) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:40:09.913+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:40:09.913+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:40:09.913+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:40:09.935+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:40:09.980+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:40:09.979+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:40:10.009+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:40:10.009+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:40:10.029+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.121 seconds
+[2024-08-23T19:40:40.107+0000] {processor.py:154} INFO - Started process (PID=26525) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:40:40.108+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:40:40.109+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:40:40.109+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:40:40.130+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:40:40.173+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:40:40.172+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:40:40.199+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:40:40.199+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:40:40.219+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.116 seconds
+[2024-08-23T19:41:10.296+0000] {processor.py:154} INFO - Started process (PID=26595) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:41:10.304+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:41:10.305+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:41:10.304+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:41:10.323+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:41:10.365+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:41:10.365+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:41:10.392+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:41:10.392+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:41:10.417+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.125 seconds
+[2024-08-23T19:41:41.206+0000] {processor.py:154} INFO - Started process (PID=26665) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:41:41.280+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:41:41.281+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:41:41.281+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:41:41.300+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:41:41.341+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:41:41.341+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:41:41.369+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:41:41.369+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:41:41.390+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.189 seconds
+[2024-08-23T19:42:12.073+0000] {processor.py:154} INFO - Started process (PID=26726) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:42:12.089+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:42:12.090+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:42:12.090+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:42:12.109+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:42:12.150+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:42:12.150+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:42:12.179+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:42:12.178+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:42:12.199+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.130 seconds
+[2024-08-23T19:42:42.849+0000] {processor.py:154} INFO - Started process (PID=26796) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:42:42.850+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:42:42.850+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:42:42.850+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:42:42.870+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:42:42.917+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:42:42.917+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:42:42.946+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:42:42.946+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:42:42.968+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.124 seconds
+[2024-08-23T19:43:13.620+0000] {processor.py:154} INFO - Started process (PID=26866) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:43:13.621+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:43:13.622+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:43:13.622+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:43:13.641+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:43:13.683+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:43:13.683+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:43:13.710+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:43:13.710+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:43:13.733+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.116 seconds
+[2024-08-23T19:43:44.099+0000] {processor.py:154} INFO - Started process (PID=26934) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:43:44.111+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:43:44.112+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:43:44.112+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:43:44.136+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:43:44.184+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:43:44.184+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:43:44.213+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:43:44.213+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:43:44.236+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.140 seconds
+[2024-08-23T19:44:14.667+0000] {processor.py:154} INFO - Started process (PID=26997) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:44:14.669+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:44:14.669+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:44:14.669+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:44:14.690+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:44:14.732+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:44:14.731+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:44:14.759+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:44:14.759+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:44:14.779+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.115 seconds
+[2024-08-23T19:44:44.905+0000] {processor.py:154} INFO - Started process (PID=27067) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:44:44.922+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:44:44.923+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:44:44.923+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:44:44.942+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:44:44.984+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:44:44.984+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:44:45.011+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:44:45.011+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:44:45.034+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.132 seconds
+[2024-08-23T19:45:15.351+0000] {processor.py:154} INFO - Started process (PID=27137) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:45:15.352+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:45:15.352+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:45:15.352+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:45:15.374+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:45:15.416+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:45:15.416+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:45:15.445+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:45:15.445+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:45:15.470+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.123 seconds
+[2024-08-23T19:45:45.602+0000] {processor.py:154} INFO - Started process (PID=27198) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:45:45.603+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:45:45.604+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:45:45.604+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:45:45.622+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:45:45.663+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:45:45.663+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:45:45.692+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:45:45.692+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:45:45.718+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.120 seconds
+[2024-08-23T19:46:15.762+0000] {processor.py:154} INFO - Started process (PID=27268) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:46:15.763+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:46:15.763+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:46:15.763+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:46:15.782+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:46:15.823+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:46:15.823+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:46:15.851+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:46:15.851+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:46:15.875+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.116 seconds
+[2024-08-23T19:46:46.033+0000] {processor.py:154} INFO - Started process (PID=27338) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:46:46.034+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:46:46.034+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:46:46.034+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:46:46.054+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:46:46.096+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:46:46.096+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:46:46.125+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:46:46.125+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:46:46.147+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.118 seconds
+[2024-08-23T19:47:16.677+0000] {processor.py:154} INFO - Started process (PID=27398) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:47:16.678+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:47:16.678+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:47:16.678+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:47:16.699+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:47:16.741+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:47:16.741+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:47:16.769+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:47:16.769+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:47:16.796+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.122 seconds
+[2024-08-23T19:47:47.340+0000] {processor.py:154} INFO - Started process (PID=27468) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:47:47.341+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:47:47.342+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:47:47.341+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:47:47.362+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:47:47.404+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:47:47.404+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:47:47.433+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:47:47.433+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:47:47.456+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.120 seconds
+[2024-08-23T19:48:17.670+0000] {processor.py:154} INFO - Started process (PID=27538) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:48:17.672+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:48:17.673+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:48:17.673+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:48:17.693+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:48:17.735+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:48:17.735+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:48:17.762+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:48:17.762+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:48:17.786+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.119 seconds
+[2024-08-23T19:48:48.034+0000] {processor.py:154} INFO - Started process (PID=27599) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:48:48.036+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:48:48.036+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:48:48.036+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:48:48.057+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:48:48.100+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:48:48.100+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:48:48.126+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:48:48.126+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:48:48.147+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.115 seconds
+[2024-08-23T19:49:11.155+0000] {processor.py:154} INFO - Started process (PID=27658) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:49:11.169+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:49:11.169+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:49:11.169+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:49:11.189+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:49:11.227+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:49:11.226+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:49:11.251+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:49:11.251+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:49:11.276+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.124 seconds
+[2024-08-23T19:49:41.329+0000] {processor.py:154} INFO - Started process (PID=27728) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:49:41.345+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:49:41.345+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:49:41.345+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:49:41.365+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:49:41.405+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:49:41.405+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:49:41.432+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:49:41.432+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:49:41.457+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.131 seconds
+[2024-08-23T19:50:00.620+0000] {processor.py:154} INFO - Started process (PID=27761) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:50:00.628+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:50:00.629+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:50:00.629+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:50:00.648+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:50:00.689+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:50:00.689+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:50:00.717+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:50:00.716+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:50:00.739+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.123 seconds
+[2024-08-23T19:50:31.060+0000] {processor.py:154} INFO - Started process (PID=27822) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:50:31.080+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:50:31.081+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:50:31.081+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:50:31.100+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:50:31.142+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:50:31.142+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:50:31.169+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:50:31.169+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:50:31.190+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.133 seconds
+[2024-08-23T19:51:01.257+0000] {processor.py:154} INFO - Started process (PID=27884) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:51:01.281+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:51:01.282+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:51:01.282+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:51:01.302+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:51:01.343+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:51:01.343+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:51:01.370+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:51:01.370+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:51:01.398+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.145 seconds
+[2024-08-23T19:51:31.489+0000] {processor.py:154} INFO - Started process (PID=27954) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:51:31.499+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:51:31.500+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:51:31.500+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:51:31.522+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:51:31.562+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:51:31.562+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:51:31.589+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:51:31.589+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:51:31.609+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.123 seconds
+[2024-08-23T19:52:01.633+0000] {processor.py:154} INFO - Started process (PID=28015) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:52:01.634+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:52:01.635+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:52:01.635+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:52:01.654+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:52:01.694+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:52:01.694+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:52:01.722+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:52:01.722+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:52:01.741+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.111 seconds
+[2024-08-23T19:52:32.101+0000] {processor.py:154} INFO - Started process (PID=28085) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:52:32.102+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:52:32.102+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:52:32.102+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:52:32.120+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:52:32.161+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:52:32.161+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:52:32.187+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:52:32.187+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:52:32.212+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.114 seconds
+[2024-08-23T19:53:02.367+0000] {processor.py:154} INFO - Started process (PID=28155) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:53:02.368+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:53:02.369+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:53:02.369+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:53:02.387+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:53:02.427+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:53:02.427+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:53:02.453+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:53:02.453+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:53:02.477+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.112 seconds
+[2024-08-23T19:53:32.628+0000] {processor.py:154} INFO - Started process (PID=28216) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:53:32.629+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:53:32.630+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:53:32.630+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:53:32.649+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:53:32.690+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:53:32.690+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:53:32.720+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:53:32.719+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:53:32.747+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.122 seconds
+[2024-08-23T19:54:03.034+0000] {processor.py:154} INFO - Started process (PID=28286) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:54:03.035+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:54:03.036+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:54:03.036+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:54:03.054+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:54:03.093+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:54:03.093+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:54:03.120+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:54:03.120+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:54:03.143+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.112 seconds
+[2024-08-23T19:54:33.522+0000] {processor.py:154} INFO - Started process (PID=28356) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:54:33.532+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:54:33.533+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:54:33.533+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:54:33.552+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:54:33.592+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:54:33.591+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:54:33.618+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:54:33.617+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:54:33.642+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.123 seconds
+[2024-08-23T19:55:04.125+0000] {processor.py:154} INFO - Started process (PID=28426) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:55:04.126+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:55:04.127+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:55:04.127+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:55:04.148+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:55:04.190+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:55:04.190+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:55:04.218+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:55:04.218+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:55:04.245+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.122 seconds
+[2024-08-23T19:55:34.526+0000] {processor.py:154} INFO - Started process (PID=28487) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:55:34.528+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:55:34.528+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:55:34.528+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:55:34.548+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:55:34.588+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:55:34.588+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:55:34.616+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:55:34.616+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:55:34.637+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.114 seconds
+[2024-08-23T19:56:04.921+0000] {processor.py:154} INFO - Started process (PID=28557) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:56:04.922+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:56:04.923+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:56:04.923+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:56:04.942+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:56:04.982+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:56:04.981+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:56:05.008+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:56:05.007+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:56:05.032+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.114 seconds
+[2024-08-23T19:56:35.289+0000] {processor.py:154} INFO - Started process (PID=28627) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:56:35.290+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:56:35.291+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:56:35.291+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:56:35.311+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:56:35.354+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:56:35.354+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:56:35.382+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:56:35.382+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:56:35.407+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.121 seconds
+[2024-08-23T19:57:05.500+0000] {processor.py:154} INFO - Started process (PID=28688) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:57:05.514+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:57:05.514+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:57:05.514+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:57:05.534+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:57:05.574+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:57:05.573+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:57:05.599+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:57:05.599+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:57:05.624+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.127 seconds
+[2024-08-23T19:57:35.807+0000] {processor.py:154} INFO - Started process (PID=28758) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:57:35.830+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:57:35.831+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:57:35.831+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:57:35.850+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:57:35.888+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:57:35.888+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:57:35.915+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:57:35.915+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:57:35.940+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.136 seconds
+[2024-08-23T19:58:06.026+0000] {processor.py:154} INFO - Started process (PID=28828) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:58:06.048+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:58:06.048+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:58:06.048+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:58:06.069+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:58:06.111+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:58:06.111+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:58:06.139+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:58:06.139+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:58:06.163+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.141 seconds
+[2024-08-23T19:58:36.397+0000] {processor.py:154} INFO - Started process (PID=28889) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:58:36.398+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:58:36.399+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:58:36.399+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:58:36.418+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:58:36.458+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:58:36.458+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:58:36.484+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:58:36.484+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:58:36.509+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.115 seconds
+[2024-08-23T19:59:06.610+0000] {processor.py:154} INFO - Started process (PID=28959) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:59:06.611+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:59:06.612+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:59:06.611+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:59:06.629+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:59:06.668+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:59:06.668+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:59:06.694+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:59:06.693+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:59:06.717+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.111 seconds
+[2024-08-23T19:59:36.883+0000] {processor.py:154} INFO - Started process (PID=29029) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:59:36.892+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T19:59:36.893+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:59:36.893+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:59:36.914+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T19:59:36.955+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:59:36.955+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T19:59:36.984+0000] {logging_mixin.py:120} INFO - [2024-08-23T19:59:36.984+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T19:59:37.010+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.130 seconds
+[2024-08-23T20:00:07.236+0000] {processor.py:154} INFO - Started process (PID=29090) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:00:07.252+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:00:07.252+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:00:07.252+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:00:07.272+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:00:07.313+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:00:07.313+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:00:07.340+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:00:07.340+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:00:07.364+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.131 seconds
+[2024-08-23T20:00:37.939+0000] {processor.py:154} INFO - Started process (PID=29160) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:00:37.952+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:00:37.953+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:00:37.953+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:00:37.971+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:00:38.010+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:00:38.010+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:00:38.038+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:00:38.038+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:00:38.059+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.123 seconds
+[2024-08-23T20:01:08.258+0000] {processor.py:154} INFO - Started process (PID=29230) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:01:08.259+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:01:08.260+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:01:08.259+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:01:08.279+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:01:08.319+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:01:08.319+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:01:08.345+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:01:08.344+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:01:08.366+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.111 seconds
+[2024-08-23T20:01:39.077+0000] {processor.py:154} INFO - Started process (PID=29291) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:01:39.120+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:01:39.121+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:01:39.121+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:01:39.139+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:01:39.178+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:01:39.178+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:01:39.206+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:01:39.206+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:01:39.230+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.157 seconds
+[2024-08-23T20:02:09.262+0000] {processor.py:154} INFO - Started process (PID=29361) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:02:09.263+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:02:09.263+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:02:09.263+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:02:09.282+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:02:09.322+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:02:09.322+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:02:09.348+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:02:09.348+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:02:09.371+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.112 seconds
+[2024-08-23T20:02:39.868+0000] {processor.py:154} INFO - Started process (PID=29431) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:02:39.881+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:02:39.882+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:02:39.882+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:02:39.903+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:02:39.944+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:02:39.944+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:02:39.972+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:02:39.972+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:02:39.997+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.132 seconds
+[2024-08-23T20:03:10.244+0000] {processor.py:154} INFO - Started process (PID=29492) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:03:10.258+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:03:10.258+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:03:10.258+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:03:10.277+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:03:10.316+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:03:10.315+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:03:10.342+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:03:10.342+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:03:10.362+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.121 seconds
+[2024-08-23T20:03:40.760+0000] {processor.py:154} INFO - Started process (PID=29562) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:03:40.776+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:03:40.776+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:03:40.776+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:03:40.794+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:03:40.833+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:03:40.833+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:03:40.859+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:03:40.859+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:03:40.882+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.125 seconds
+[2024-08-23T20:04:11.090+0000] {processor.py:154} INFO - Started process (PID=29632) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:04:11.110+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:04:11.111+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:04:11.110+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:04:11.130+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:04:11.170+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:04:11.170+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:04:11.196+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:04:11.196+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:04:11.221+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.134 seconds
+[2024-08-23T20:04:41.335+0000] {processor.py:154} INFO - Started process (PID=29693) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:04:41.344+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:04:41.345+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:04:41.344+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:04:41.363+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:04:41.403+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:04:41.403+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:04:41.428+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:04:41.428+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:04:41.453+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.121 seconds
+[2024-08-23T20:05:11.764+0000] {processor.py:154} INFO - Started process (PID=29763) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:05:11.765+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:05:11.766+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:05:11.766+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:05:11.785+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:05:11.826+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:05:11.826+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:05:11.854+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:05:11.854+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:05:11.878+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.117 seconds
+[2024-08-23T20:05:42.047+0000] {processor.py:154} INFO - Started process (PID=29831) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:05:42.048+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:05:42.048+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:05:42.048+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:05:42.067+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:05:42.107+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:05:42.107+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:05:42.133+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:05:42.133+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:05:42.157+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.113 seconds
+[2024-08-23T20:06:12.251+0000] {processor.py:154} INFO - Started process (PID=29891) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:06:12.264+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:06:12.265+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:06:12.265+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:06:12.283+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:06:12.324+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:06:12.324+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:06:12.352+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:06:12.352+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:06:12.378+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.130 seconds
+[2024-08-23T20:06:42.511+0000] {processor.py:154} INFO - Started process (PID=29961) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:06:42.512+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:06:42.513+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:06:42.513+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:06:42.532+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:06:42.573+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:06:42.573+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:06:42.603+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:06:42.603+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:06:42.633+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.126 seconds
+[2024-08-23T20:07:13.155+0000] {processor.py:154} INFO - Started process (PID=30031) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:07:13.156+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:07:13.157+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:07:13.157+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:07:13.177+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:07:13.218+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:07:13.218+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:07:13.246+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:07:13.246+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:07:13.270+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.118 seconds
+[2024-08-23T20:07:43.525+0000] {processor.py:154} INFO - Started process (PID=30101) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:07:43.537+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:07:43.537+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:07:43.537+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:07:43.558+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:07:43.601+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:07:43.601+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:07:43.629+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:07:43.629+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:07:43.656+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.135 seconds
+[2024-08-23T20:08:13.936+0000] {processor.py:154} INFO - Started process (PID=30162) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:08:13.937+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:08:13.938+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:08:13.938+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:08:13.959+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:08:14.001+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:08:14.001+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:08:14.028+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:08:14.028+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:08:14.051+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.118 seconds
+[2024-08-23T20:08:44.268+0000] {processor.py:154} INFO - Started process (PID=30232) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:08:44.280+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:08:44.281+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:08:44.281+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:08:44.301+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:08:44.342+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:08:44.342+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:08:44.370+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:08:44.369+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:08:44.396+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.131 seconds
+[2024-08-23T20:09:14.700+0000] {processor.py:154} INFO - Started process (PID=30302) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:09:14.702+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:09:14.702+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:09:14.702+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:09:14.723+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:09:14.769+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:09:14.768+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:09:14.799+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:09:14.799+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:09:14.828+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.131 seconds
+[2024-08-23T20:09:45.554+0000] {processor.py:154} INFO - Started process (PID=30363) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:09:45.555+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:09:45.555+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:09:45.555+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:09:45.575+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:09:45.616+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:09:45.616+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:09:45.643+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:09:45.642+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:09:45.666+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.117 seconds
+[2024-08-23T20:10:15.948+0000] {processor.py:154} INFO - Started process (PID=30433) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:10:15.949+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:10:15.950+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:10:15.950+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:10:15.970+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:10:16.011+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:10:16.011+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:10:16.039+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:10:16.039+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:10:16.065+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.120 seconds
+[2024-08-23T20:10:46.736+0000] {processor.py:154} INFO - Started process (PID=30503) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:10:46.737+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:10:46.737+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:10:46.737+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:10:46.758+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:10:46.797+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:10:46.797+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:10:46.825+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:10:46.825+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:10:46.849+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.116 seconds
+[2024-08-23T20:11:17.188+0000] {processor.py:154} INFO - Started process (PID=30564) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:11:17.202+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:11:17.203+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:11:17.202+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:11:17.222+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:11:17.263+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:11:17.262+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:11:17.288+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:11:17.288+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:11:17.309+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.124 seconds
+[2024-08-23T20:11:47.555+0000] {processor.py:154} INFO - Started process (PID=30634) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:11:47.570+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:11:47.571+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:11:47.571+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:11:47.589+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:11:47.631+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:11:47.631+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:11:47.657+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:11:47.657+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:11:47.681+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.129 seconds
+[2024-08-23T20:12:18.062+0000] {processor.py:154} INFO - Started process (PID=30705) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:12:18.072+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:12:18.073+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:12:18.073+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:12:18.093+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:12:18.134+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:12:18.133+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:12:18.160+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:12:18.160+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:12:18.186+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.127 seconds
+[2024-08-23T20:12:48.244+0000] {processor.py:154} INFO - Started process (PID=30766) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:12:48.255+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:12:48.256+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:12:48.255+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:12:48.276+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:12:48.317+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:12:48.317+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:12:48.344+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:12:48.344+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:12:48.368+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.128 seconds
+[2024-08-23T20:13:18.951+0000] {processor.py:154} INFO - Started process (PID=30836) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:13:18.952+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:13:18.953+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:13:18.953+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:13:18.971+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:13:19.010+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:13:19.010+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:13:19.037+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:13:19.037+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:13:19.062+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.113 seconds
+[2024-08-23T20:13:49.289+0000] {processor.py:154} INFO - Started process (PID=30906) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:13:49.300+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:13:49.301+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:13:49.301+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:13:49.319+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:13:49.360+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:13:49.359+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:13:49.386+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:13:49.386+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:13:49.410+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.124 seconds
+[2024-08-23T20:14:19.802+0000] {processor.py:154} INFO - Started process (PID=30974) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:14:19.803+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:14:19.804+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:14:19.803+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:14:19.824+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:14:19.865+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:14:19.865+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:14:19.893+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:14:19.893+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:14:19.916+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.116 seconds
+[2024-08-23T20:14:50.783+0000] {processor.py:154} INFO - Started process (PID=31037) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:14:50.784+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:14:50.785+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:14:50.785+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:14:50.803+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:14:50.841+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:14:50.841+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:14:50.868+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:14:50.868+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:14:50.892+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.112 seconds
+[2024-08-23T20:15:21.583+0000] {processor.py:154} INFO - Started process (PID=31107) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:15:21.596+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:15:21.596+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:15:21.596+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:15:21.614+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:15:21.653+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:15:21.653+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:15:21.677+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:15:21.677+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:15:21.697+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.117 seconds
+[2024-08-23T20:15:52.065+0000] {processor.py:154} INFO - Started process (PID=31177) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:15:52.080+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:15:52.081+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:15:52.080+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:15:52.099+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:15:52.139+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:15:52.139+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:15:52.166+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:15:52.166+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:15:52.191+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.129 seconds
+[2024-08-23T20:16:22.346+0000] {processor.py:154} INFO - Started process (PID=31238) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:16:22.356+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:16:22.356+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:16:22.356+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:16:22.375+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:16:22.413+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:16:22.413+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:16:22.440+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:16:22.440+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:16:22.463+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.120 seconds
+[2024-08-23T20:16:53.151+0000] {processor.py:154} INFO - Started process (PID=31308) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:16:53.165+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:16:53.165+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:16:53.165+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:16:53.184+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:16:53.223+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:16:53.223+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:16:53.249+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:16:53.249+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:16:53.272+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.124 seconds
+[2024-08-23T20:17:23.693+0000] {processor.py:154} INFO - Started process (PID=31378) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:17:23.707+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:17:23.708+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:17:23.708+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:17:23.727+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:17:23.768+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:17:23.768+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:17:23.795+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:17:23.795+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:17:23.820+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.131 seconds
+[2024-08-23T20:17:54.397+0000] {processor.py:154} INFO - Started process (PID=31439) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:17:54.409+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:17:54.410+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:17:54.410+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:17:54.428+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:17:54.467+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:17:54.466+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:17:54.491+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:17:54.491+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:17:54.519+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.126 seconds
+[2024-08-23T20:18:25.137+0000] {processor.py:154} INFO - Started process (PID=31510) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:18:25.151+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:18:25.152+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:18:25.152+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:18:25.171+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:18:25.211+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:18:25.211+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:18:25.239+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:18:25.239+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:18:25.263+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.129 seconds
+[2024-08-23T20:18:55.855+0000] {processor.py:154} INFO - Started process (PID=31580) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:18:55.856+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:18:55.857+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:18:55.857+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:18:55.874+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:18:55.913+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:18:55.913+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:18:55.938+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:18:55.938+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:18:55.961+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.108 seconds
+[2024-08-23T20:20:03.149+0000] {processor.py:154} INFO - Started process (PID=52) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:20:03.150+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:20:03.151+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:20:03.151+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:20:03.202+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:20:03.306+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:20:03.306+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:20:03.342+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:20:03.342+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:20:03.376+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.230 seconds
+[2024-08-23T20:20:34.078+0000] {processor.py:154} INFO - Started process (PID=115) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:20:34.097+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:20:34.098+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:20:34.098+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:20:34.118+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:20:34.160+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:20:34.160+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:20:34.189+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:20:34.189+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:20:34.215+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.140 seconds
+[2024-08-23T20:21:04.461+0000] {processor.py:154} INFO - Started process (PID=186) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:21:04.481+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:21:04.482+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:21:04.482+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:21:04.503+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:21:04.545+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:21:04.544+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:21:04.573+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:21:04.573+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:21:04.595+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.137 seconds
+[2024-08-23T20:21:35.167+0000] {processor.py:154} INFO - Started process (PID=256) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:21:35.182+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:21:35.183+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:21:35.183+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:21:35.202+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:21:35.247+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:21:35.247+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:21:35.276+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:21:35.276+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:21:35.305+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.141 seconds
+[2024-08-23T20:22:06.226+0000] {processor.py:154} INFO - Started process (PID=317) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:22:06.227+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:22:06.227+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:22:06.227+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:22:06.247+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:22:06.289+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:22:06.288+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:22:06.316+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:22:06.316+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:22:06.344+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.121 seconds
+[2024-08-23T20:22:37.342+0000] {processor.py:154} INFO - Started process (PID=387) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:22:37.359+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:22:37.359+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:22:37.359+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:22:37.378+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:22:37.419+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:22:37.419+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:22:37.448+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:22:37.448+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:22:37.474+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.136 seconds
+[2024-08-23T20:23:08.161+0000] {processor.py:154} INFO - Started process (PID=457) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:23:08.184+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:23:08.185+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:23:08.185+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:23:08.205+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:23:08.247+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:23:08.247+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:23:08.276+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:23:08.276+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:23:08.301+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.144 seconds
+[2024-08-23T20:23:39.056+0000] {processor.py:154} INFO - Started process (PID=527) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:23:39.077+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:23:39.078+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:23:39.078+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:23:39.098+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:23:39.141+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:23:39.141+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:23:39.169+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:23:39.169+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:23:39.197+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.144 seconds
+[2024-08-23T20:24:10.122+0000] {processor.py:154} INFO - Started process (PID=588) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:24:10.136+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:24:10.137+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:24:10.137+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:24:10.155+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:24:10.197+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:24:10.197+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:24:10.224+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:24:10.224+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:24:10.246+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.127 seconds
+[2024-08-23T20:24:41.216+0000] {processor.py:154} INFO - Started process (PID=658) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:24:41.229+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:24:41.230+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:24:41.230+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:24:41.249+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:24:41.292+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:24:41.292+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:24:41.321+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:24:41.321+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:24:41.347+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.135 seconds
+[2024-08-23T20:25:42.323+0000] {processor.py:154} INFO - Started process (PID=52) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:25:42.324+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:25:42.325+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:25:42.325+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:25:42.375+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:25:42.479+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:25:42.479+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:25:42.507+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:25:42.507+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:25:42.536+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.216 seconds
+[2024-08-23T20:26:13.356+0000] {processor.py:154} INFO - Started process (PID=79) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:26:13.357+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:26:13.358+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:26:13.358+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:26:13.379+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:26:13.421+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:26:13.421+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:26:13.450+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:26:13.449+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:26:13.476+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.122 seconds
+[2024-08-23T20:26:44.365+0000] {processor.py:154} INFO - Started process (PID=113) to work on /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:26:44.366+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/course_consumer.py for tasks to queue
+[2024-08-23T20:26:44.366+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:26:44.366+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:26:44.387+0000] {processor.py:766} INFO - DAG(s) dict_keys(['course_consumer']) retrieved from /opt/airflow/dags/course_consumer.py
+[2024-08-23T20:26:44.429+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:26:44.428+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2024-08-23T20:26:44.457+0000] {logging_mixin.py:120} INFO - [2024-08-23T20:26:44.457+0000] {dag.py:3340} INFO - Setting next_dagrun for course_consumer to None, run_after=None
+[2024-08-23T20:26:44.480+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/course_consumer.py took 0.118 seconds
